@@ -1,2 +1,2 @@
-# PCA
-Carrying out a PCA on Apprentice chef data set
+# Fossil products price predictions
+Using Machine learning tools to predict prices of fossils products
